@@ -6,3 +6,20 @@ body{
     background-color: lightPink;
 
 }
+
+p.round3 {
+	border: 5px solid red;
+	border-radius: 25px;
+  }
+  
+ a{
+	background-color: palevioletred; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 34px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 10px;
+	
+  }
