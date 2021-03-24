@@ -1,0 +1,95 @@
+
+/* BASE PARA O SITE DELICIOSIDADES DA SIMONE*/
+
+
+header, nav, section, aside, footer {
+    display: block;
+}
+
+#page-container {
+    width: 900px;
+    height: 1000px;
+    margin: auto;
+}
+
+     
+/* Page Elements */
+
+.main-head {
+    background: #458B00;
+    height: 130px;
+    width: 900px;
+    margin-bottom: 10px;
+    text-indent: 15px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+ 
+#sidebar {
+    width: 300px;
+    height: 600px;
+    float: left;
+    background: pink;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    text-align: left;
+}
+
+#main-area {
+    background: #008000;
+    height: 400px;
+    width: 900px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    text-indent: 15px;
+}
+
+#main-footer {
+    background: #3F9E45;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    text-indent: 15px;
+}
+
+#tagline {
+    color: #CD0000;
+}
+ 
+#main-nav {
+    list-style: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+ul#main-nav li {
+    display: inline;
+}
+ 
+#footer-nav {
+    text-decoration: none;
+}
+
+#footer-nav a {
+    text-decoration: none;
+    color: #CFCFCF;
+    font-style: italic;
+}
+
+#copyright {
+    font-size: 9px;
+    font-style: italic;
+    text-align: right;
+    color: #CFCFCF;
+    padding-top: 2px;
+    padding-right: 20px;
+}
+
+.current {
+    
+}

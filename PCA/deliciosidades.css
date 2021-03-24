@@ -1,0 +1,39 @@
+
+body{
+    background-color: lightPink;
+
+}
+
+div {
+    background-image: url("imagens/DESIGN/aqua.png");
+    background-repeat: no-repeat;
+    background-size: 55%;
+}
+
+a.texte {
+
+	background-color: palevioletred; /* Green */
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 10px;
+}
+
+.novo_item {
+	text-align: center;
+	background-color: aqua;
+	width: 1340px;
+    height: 500px;
+}
+
+#sideBar{
+	width: 300px;
+    height: 600px;
+    float: left;
+    background: #ffffff;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
