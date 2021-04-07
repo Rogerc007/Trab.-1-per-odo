@@ -1,39 +1,60 @@
 
+/* header {
+	background-image: url("imagens/DESIGN/aqua.png");
+	height: 200px;
+	width: 1000px;
+	background-repeat: no-repeat;
+} */
+
+
 body{
     background-color: lightPink;
 
 }
 
-div {
-    background-image: url("imagens/DESIGN/aqua.png");
-    background-repeat: no-repeat;
-    background-size: 55%;
-}
 
 a.texte {
 
-	background-color: palevioletred; /* Green */
+	background-color: palevioletred; /* ROSA */
 	border: none;
 	color: white;
 	padding: 10px 20px;
 	text-align: center;
 	text-decoration: none;
-	display: inline-block;
-	font-size: 10px;
+	font-size: 15px;
+}
+
+a.texte:hover { 
+	background:#be5679; /* ROSA ESCURO */
+	color:#ffffff;
 }
 
 .novo_item {
 	text-align: center;
-	background-color: aqua;
+	background-color: ;
 	width: 1340px;
     height: 500px;
 }
 
 #sideBar{
-	width: 300px;
+	width: 350px;
     height: 600px;
     float: left;
     background: #ffffff;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1.fonte {
+	font-family: Montana;
+	font-size: 50px;
+}
+
+.SM {
+   margin-left: 360px;
+   text-align: center;
+   font-size: 20px;
+   font-family: Century Gothic;
 }
