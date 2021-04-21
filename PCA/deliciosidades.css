@@ -53,7 +53,10 @@ h1.fonte {
 
 .SM {
    margin-left: 360px;
-   text-align: center;
+   text-align: justify;
    font-size: 20px;
    font-family: Century Gothic;
+   padding-left: 100px;
+   padding-right: 100px;
 }
+
