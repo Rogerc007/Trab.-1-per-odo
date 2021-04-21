@@ -44,6 +44,7 @@ a.texte:hover {
     -webkit-border-radius: 10px;
     text-align: center;
     font-size: 20px;
+	box-shadow: 5px 5px #1ec29e;
 }
 
 h1.fonte {
