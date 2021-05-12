@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Rum+Raisin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*html, body {
+    min-height: 100%;
+}*/
+
+/* corpo da página */
+body{
+   background-image:url("imagens/backgroundbolo2.jpg");
+   background-position: center;
+   background-repeat: space;
+   background-color: rgba(255, 255, 255, 0.3);
+   background-size: cover;
+   position: center;
+   padding: 0;
+   margin: 0; 
+}
+
+
+/* Estilização do menu */
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 60px;
+    left: 750px;
+}
+/* Estilização do menu */
+nav#menu li{
+    display: inline-block;
+    background-color: palevioletred;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 1s;
+}
+/* Estilização do menu */
+nav#menu{
+    display: block;
+}
+/* Estilização do menu */
+nav#menu li:hover{
+    background-color: #be5679;
+}
+/* Estilização do menu */
+nav#menu a{
+    color: #ffff;
+    text-decoration: none;
+}
+/* Estilização do menu */
+nav#menu a:hover{
+    color: aqua;
+}
+/* Minha história (Simone)*/
+#sideBar{
+	width: 350px;
+    height: 690px;
+    float: left;
+    background: white;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+	box-shadow: 2px 2px rgba(0, 0, 0, 0.4);
+}
+/* Estilização do minha história*/
+aside#a{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+/* Estilização do body */
+h1#fonte{
+    font-family: 'Rum Raisin', sans-serif;
+    font-size: 50px;
+}
+/* Estilização do body */
+p#fonte2{
+    font-size: 25px;
+    font-family: 'Grand Hotel', cursive;
+}
+/* Estilização dos link do menu */
+a#cor{
+  background-color: palevioletred; 
+  text-decoration: none;
+  padding: 10px;
+  margin: 2px;
+  transition: background-color 1s;
+  color: #ffffff;
+}
+/* Estilização do body */
+a#cor:hover{
+   background-color: #be5679;
+   color: aqua;
+}
+/* Estilização do body */
+.geral {
+    min-height:100%;
+    position:relative;
+    width:800px;
+}
+
+
+p#texto{
+    text-align: center;
+    margin-left: 360px;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Grand Hotel', cursive;
+}
+/* Estilização do card de promoções, kits e bolos. */
+
+article#centro{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    float: right;
+    position: relative;
+}
+
+.card01 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 20%;
+    height: 20%;
+    background-color: rgba(123, 255, 255, 0.383);
+    
+}
+
+.card02 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 20%;
+    height: 20%;
+    background-color: rgba(123, 255, 255, 0.383);
+    
+}
+/* Estilização do card de promoções, kits e bolos. */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+  }
+  /* Estilização do card de promoções, kits e bolos. */
+.container {
+    padding: 2px 16px;
+  }
+
+article#centro{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    float: center;
+    position: relative;
+}
+/* Estilização do link's rodapé. */
+a#wpp{
+    size: 10px;
+    left: 92%;
+    bottom: -40px;
+}
+
+a#facebook{
+    size: 10px;
+    left: 82%;
+    bottom: -40px;
+}
+
+a#insta{
+
+    size: 10px;
+    left: 72%;
+    bottom: -40px;
+}
+/* Estilização da página de contatos. */
+#google{
+    position: relative;
+    display: block;
+    margin: 0px 550px;
+    
+}
+p#en{
+    font-family: 'Grand Hotel'; 
+    font-size: 30px; 
+    text-align: center;
+    position: center;
+    padding-right: 100px;
+}
+
+/* Estilização do slide principal */
+#slide{
+    width: 20%;
+    /*max-width: 500px;*/
+    height: 250px;
+    /*max-height: 150px;*/
+    position: relative;
+    display: block;
+    padding-left: 35%;
+    padding-top: 5%;
+    
+}
+
+#slide img{
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 800ms;
+}
+
+#slide img.selected{
+    opacity: 1;
+}
+
+
+/* Estilização do rodapé */
+footer {
+
+    background-color: rgba(173, 22, 219, 0.2);
+    color: #FFF;
+    font-size: 14px;
+    font-family: Verdana;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 50px;
+    clear: both;
+}
+
+/* resposividade do site*/
+
