@@ -283,10 +283,10 @@ article#centro{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
     width: 230px;
-    height: 312px;
+    height: 340px;
     background-color: rgba(123, 255, 255, 0.383);
     position: relative;
-        top: auto; left: 100px;
+        top: 29px; left: 100px;
     text-align: center;
   
 }
@@ -438,6 +438,111 @@ article#centro{
     text-align: center;
 }
 
+article#promo{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    float: right;
+    position: relative;
+}
+
+#promo01{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 150px;
+    position: relative;
+        bottom: -10px; right: 650px;
+    
+
+}
+
+#promo02{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 150px;
+    position: relative;
+        top: -150px; left: 290px;
+
+}
+
+#promo03{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 150px;
+    position: relative;
+        top: -155px; left: 290px;
+
+}
+
+#promo04{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 150px;
+    position: relative;
+        top: 50px; right: 580px;
+
+}
+
+#promo05{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 140px;
+    position: relative;
+        top: -155px; left: 290px;
+
+}
+
+#promo06{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    transition: 0.3s;
+    width: 250px;
+    height: 112px;
+    position: relative;
+        top: -140px; left: 290px;
+
+}
+
+#promo07{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    transition: 0.3s;
+    width: 250px;
+    height: 100px;
+    position: relative;
+        top: 60px; right: 430px;
+
+}
+
+#promo08{
+
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 250px;
+    height: 110x;
+    position: relative;
+        top: -140px; left: 290px;
+
+}
 
 
 
