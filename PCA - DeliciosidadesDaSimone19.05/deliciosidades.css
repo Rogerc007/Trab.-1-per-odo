@@ -649,6 +649,19 @@ a#insta{
     bottom: -40px;
 }
 
+a#tok{
+
+    size: 10px;
+    position: relative;
+        left: 295px; bottom: 90px;
+}
+
+.redesociais{
+    position: relative;
+        left: 390px;
+    max-width: 50%;
+
+}
 
 
 /* Estilização da página de contatos. */
@@ -706,6 +719,7 @@ footer {
     line-height: 50px;
     clear: both;
 }
+
 
 /* resposividade do site*/
 
