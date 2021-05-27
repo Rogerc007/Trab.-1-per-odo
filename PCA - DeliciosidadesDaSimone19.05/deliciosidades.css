@@ -145,7 +145,7 @@ article#centro{
     display: inline-block;
 }
 
-
+/* Página dos bolos */
 #card01 {
     
     display: block;
@@ -157,6 +157,8 @@ article#centro{
     position: relative;
         top: auto; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
   
 }
 
@@ -171,7 +173,8 @@ article#centro{
     position: relative;
         bottom: 320px; left: 370px;
     text-align: center;
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card03 {
@@ -185,6 +188,8 @@ article#centro{
     position: relative;
         bottom: 620px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card04 {
@@ -198,6 +203,8 @@ article#centro{
     position: relative;
         bottom: 580px; left:100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card05 {
@@ -211,6 +218,8 @@ article#centro{
     position: relative;
         bottom: 930px; left: 370px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card06 {
@@ -224,6 +233,8 @@ article#centro{
     position: relative;
         bottom: 1280px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card07 {
@@ -237,6 +248,8 @@ article#centro{
     position: relative;
         bottom: 1220px; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card08 {
@@ -250,6 +263,8 @@ article#centro{
     position: relative;
         bottom: 1570px; left: 370px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 #card09{
    
@@ -262,6 +277,8 @@ article#centro{
     position: relative;
         bottom: 1970px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card10{
@@ -275,8 +292,10 @@ article#centro{
     position: relative;
         bottom: 1900px; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
-
+/* Página dos Kit's */
 #card11 {
     
     display: block;
@@ -288,6 +307,8 @@ article#centro{
     position: relative;
         top: 29px; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
   
 }
 
@@ -302,6 +323,8 @@ article#centro{
     position: relative;
         bottom: 330px; left: 370px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 
 }
 
@@ -317,6 +340,8 @@ article#centro{
     position: relative;
         bottom: 650px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card14 {
@@ -330,6 +355,8 @@ article#centro{
     position: relative;
         bottom: 620px; left:100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card15 {
@@ -343,6 +370,8 @@ article#centro{
     position: relative;
         bottom: 950px; left: 370px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card16 {
@@ -356,6 +385,8 @@ article#centro{
     position: relative;
         bottom: 1280px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card17 {
@@ -369,6 +400,8 @@ article#centro{
     position: relative;
         bottom: 1220px; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card18 {
@@ -382,6 +415,8 @@ article#centro{
     position: relative;
         bottom: 1610px; left: 370px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card19 {
@@ -395,6 +430,8 @@ article#centro{
     position: relative;
         top: auto; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
   
 }
 
@@ -409,6 +446,8 @@ article#centro{
     position: relative;
         top: auto; left: 100px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
   
 }
 
@@ -423,6 +462,8 @@ article#centro{
     position: relative;
         bottom: 620px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 #card22 {
@@ -436,8 +477,11 @@ article#centro{
     position: relative;
         bottom: 620px; left: 630px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
+/* Página de salagados */
 article#promo{
     margin-left: auto;
     margin-right: auto;
@@ -528,21 +572,11 @@ article#promo{
     width: 250px;
     height: 100px;
     position: relative;
-        top: 60px; right: 430px;
+        top: 40px; right: 286px;
 
 }
 
-#promo08{
 
-    display: block;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
-    transition: 0.3s;
-    width: 250px;
-    height: 110x;
-    position: relative;
-        top: -140px; left: 290px;
-
-}
 
 
 
@@ -629,7 +663,7 @@ article#centro{
     float: center;
     position: relative;
 }
-/* Estilização do link's rodapé. */
+/* Estilização do link's  */
 a#wpp{
     size: 10px;
     left: 92%;
