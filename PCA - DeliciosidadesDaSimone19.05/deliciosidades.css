@@ -749,12 +749,15 @@ footer {
     font-size: 14px;
     font-family: Verdana;
     width: 100%;
-    height: 50px;    
+    height: 180px;    
     text-align: center;
     line-height: 50px;
     clear: both;
 }
 
+#redessociaisrodape{
+    line-height: 10px;
+}
 
 
 /* resposividade do site*/
